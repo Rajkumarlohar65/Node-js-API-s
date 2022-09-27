@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">api_methods</string>
+    <string name="enter_user_s_details">Enter User\'s Details</string>
+    <string name="enter_student_id">enter_student_id</string>
+    <string name="last_name">last_name</string>
+    <string name="first_name">first_name</string>
+    <string name="mobile_number">mobile_number</string>
+    <string name="email_id">email_id</string>
+    <string name="submit">send data</string>
+    <string name="view_data">view data</string>
+    <string name="update_data">update data</string>
+    <string name="delete_data">delete data</string>
+
+</resources>
